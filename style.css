@@ -1,0 +1,44 @@
+body {
+	background: #777;
+	width: 960px;
+	font-family:  'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777;
+}
+
+header,
+nav,
+footer,
+section {
+	display: block;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	background: #ebebeb;
+}
+
+section {
+	width: 495px
+	height: 267px;
+	float:left;
+
+}
+
+aside {
+	color: white;
+	float:left;
+}
+
+article{
+	color:#ebebeb;
+}
+.clear {
+	clear: both;
+
+}
+
+h1, h2,
+p {
+	color:white;
+
+}
